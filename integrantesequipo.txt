@@ -1,7 +1,0 @@
-nombre:Mario Alejandro Sepulveda Rojas
-   Cod:1098337064
-E-mail:mariosr511@hotmail.com
-
-nombre:Cristian Ferney Ciro Maya
-   Cod:1097038852
-E-mail:ciromaya10@hotmail.com
